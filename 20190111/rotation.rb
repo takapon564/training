@@ -5,5 +5,5 @@ a=[]
 end
 
 a.reverse.each do |i|
-  puts i
+  puts i.reverse
 end
